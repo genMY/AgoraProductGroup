@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-AgoraProductGroup-AgoraProductGroupUITests/Pods-AgoraProductGroup-AgoraProductGroupUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Fastboard/Fastboard.framework
+${BUILT_PRODUCTS_DIR}/NTLBridge/NTLBridge.framework
+${BUILT_PRODUCTS_DIR}/White_YYModel/White_YYModel.framework
+${BUILT_PRODUCTS_DIR}/Whiteboard/Whiteboard.framework

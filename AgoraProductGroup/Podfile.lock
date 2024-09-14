@@ -1,0 +1,34 @@
+PODS:
+  - Fastboard (1.4.2):
+    - Fastboard/core (= 1.4.2)
+  - Fastboard/core (1.4.2):
+    - Whiteboard (~> 2.16.81)
+  - NTLBridge (3.1.6)
+  - White_YYModel (1.0.6)
+  - Whiteboard (2.16.104):
+    - Whiteboard/Whiteboard-Basic (= 2.16.104)
+  - Whiteboard/Resource (2.16.104)
+  - Whiteboard/Whiteboard-Basic (2.16.104):
+    - NTLBridge (~> 3.1.4)
+    - White_YYModel
+    - Whiteboard/Resource
+
+DEPENDENCIES:
+  - Fastboard
+
+SPEC REPOS:
+  trunk:
+    - Fastboard
+    - NTLBridge
+    - White_YYModel
+    - Whiteboard
+
+SPEC CHECKSUMS:
+  Fastboard: 0c3ef021540fe3934e078d573fc94a8ee0f0d963
+  NTLBridge: 6ef7f3c1fc956f2e2d701a89828d51674bd479c7
+  White_YYModel: 4ed7b231471784ec709d4db954e1ca61a4fbe54d
+  Whiteboard: fb4fa71c6592b5ce527c159e7ff4f03ada4d1c37
+
+PODFILE CHECKSUM: 6def6cc34a46ab5df7d0b6108fdc7ba199f959db
+
+COCOAPODS: 1.15.2
